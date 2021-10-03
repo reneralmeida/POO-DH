@@ -135,8 +135,8 @@ public class App extends Conexao {
 
     public String sejaUsuario() {
         System.out.println("Digite seu nome, telefone e email.");
-        Scanner lerPartner = new Scanner(System.in);
-        String bePartner = lerPartner.next();
+        Scanner lerUser = new Scanner(System.in);
+        String beUser = lerUser.next();
         return "Obrigado por se cadastrar ao MatchAdote.";
 
     }
