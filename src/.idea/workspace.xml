@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a1cf331-d850-4d1f-9797-3ce1aa6d95f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-reflect-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-reflect.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-test-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Animal/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Animal/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Aula03/Aula03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Aula05/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Aula05/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Desafio/Primo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/DesafioAula03/jokenpo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/ExFuncao/booleanFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Impressora/Impressora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/Impressora/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/UsuarioJogo/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/UsuarioJogo/UsuarioJogo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/Aula03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio/Primo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioAula03/jokenpo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExFuncao/booleanFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impressora/Impressora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impressora/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsuarioJogo/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsuarioJogo/UsuarioJogo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/company/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1y9YeZXN8huW5PbPBtgjRL5pNYO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Aula11Princip">
+    <configuration name="Aula11Princip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RenamedA11.Aula11Princip" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RenamedA11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula10Mesa.Principal" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula10Mesa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Checkpoint.Principal" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Checkpoint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aula11Princip" />
+        <item itemvalue="Application.Principal (1)" />
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a1cf331-d850-4d1f-9797-3ce1aa6d95f7" name="Changes" comment="" />
+      <created>1631665367014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631665367014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

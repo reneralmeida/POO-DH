@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/DH-colecoes/src/Main.java" />
+      <file url="file://$PROJECT_DIR$/src/DH-Heranca/src/com/company/Main.java" />
+      <file url="file://$PROJECT_DIR$/src/DH-operacoes-colecoes/src/Main.java" />
+      <file url="file://$PROJECT_DIR$/src/DH-relacionamento1paraMuitos/src/Empregado.java" />
+      <file url="file://$PROJECT_DIR$/src/DH-relacionamento1paraMuitos/src/Main.java" />
+      <file url="file://$PROJECT_DIR$/src/Aula13/ContaCorrente.java" />
+      <file url="file://$PROJECT_DIR$/src/Aula15/Embarcacao.java" />
+      <file url="file://$PROJECT_DIR$/src/Aula15/Iate.java" />
+      <file url="file://$PROJECT_DIR$/src/Aula15/Avaliar.java" />
+      <file url="file://$PROJECT_DIR$/src/Aula15/Veleiro.java" />
+      <file url="file://$PROJECT_DIR$/src/com/company/Main.java" />
+      <file url="file://$PROJECT_DIR$/src/DH-ExcecoesClientes/src/Main.java" />
+      <file url="file://$PROJECT_DIR$/src/Aula20Mesa/Vazio.java" />
+      <file url="file://$PROJECT_DIR$/src/Aula20Mesa/Carrinho.java" />
+    </excludeFromCompile>
+  </component>
+</project>
